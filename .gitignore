@@ -48,9 +48,3 @@ Thumbs.db
 .idea/
 *.swp
 *.swo
-
-# Large datasets & raw staging media (Recommended to keep repo lightweight)
-images_accepted/
-images_quarantine/
-images_rejected/
-staging/
